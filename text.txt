@@ -5,6 +5,6 @@ This is a test for Git Training.
 
 #This line added from local repo..
 
-Editing it for git fetch
+Editing it for git fetch !
 
 Thanks
