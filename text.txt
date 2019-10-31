@@ -1,4 +1,6 @@
 Hi, 
 This is a test for Git Training.
 
-Thanks!!!
+#This line added from remote repo.
+
+Thanks
