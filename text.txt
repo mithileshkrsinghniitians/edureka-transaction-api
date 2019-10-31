@@ -3,4 +3,6 @@ This is a test for Git Training.
 
 #This line added from remote repo.
 
+#This line added from local repo..
+
 Thanks
